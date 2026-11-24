@@ -11,8 +11,9 @@ export default function StartPage() {
       <Character src={CHARACTERS.greeting} alt="인사하는 피터 캐릭터" size={180} />
       <h1 className="text-3xl sm:text-4xl font-bold text-navy">오늘 뭐 그리지?</h1>
       <p className="text-navy/70 max-w-sm leading-relaxed">
-        간단한 취향 테스트로, 이지미술 교육연구회가 검토한 미술수업 중
-        우리 반에 꼭 맞는 수업을 찾아드려요.
+        간단한 취향 테스트로
+        <br />
+        우리 반에 꼭 맞는 미술 수업을 찾아드려요.
       </p>
       <div className="flex flex-col gap-3 w-full max-w-xs mt-2">
         <Button variant="primary" onClick={() => navigate('/test')}>
