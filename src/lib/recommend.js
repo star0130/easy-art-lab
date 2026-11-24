@@ -96,9 +96,6 @@ function buildReasons({ recipe, detail }, answers) {
   if (!detail.prepDuration.durationKnown && recipe.durationMinutes == null) {
     caveats.push('실제 소요 시간은 아직 확인되지 않았어요. 학급 상황에 맞게 조절해 주세요.');
   }
-  if (recipe.reviewStatus && recipe.reviewStatus.includes('확인 필요')) {
-    caveats.push('연구회 자료 검토가 진행 중인 수업입니다. 준비물을 한 번 더 확인해 주세요.');
-  }
 
   if (reasons.length === 0) {
     reasons.push('조건을 완전히 만족하는 수업을 찾지 못해, 조건을 일부 완화해 가장 비슷한 수업을 추천해드려요.');
