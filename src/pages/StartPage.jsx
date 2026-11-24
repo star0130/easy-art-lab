@@ -11,7 +11,7 @@ export default function StartPage() {
       <Character src={CHARACTERS.greeting} alt="인사하는 피터 캐릭터" size={180} />
       <h1 className="text-3xl sm:text-4xl font-bold text-navy">오늘 뭐 그리지?</h1>
       <p className="text-navy/70 max-w-sm leading-relaxed">
-        간단한 취향 테스트로, 화성오산 이지미술 교육연구회가 검토한 미술수업 중
+        간단한 취향 테스트로, 이지미술 교육연구회가 검토한 미술수업 중
         우리 반에 꼭 맞는 수업을 찾아드려요.
       </p>
       <div className="flex flex-col gap-3 w-full max-w-xs mt-2">
@@ -25,8 +25,10 @@ export default function StartPage() {
 
       <div className="flex items-center gap-3 mt-10 max-w-sm text-left bg-white/50 rounded-2xl px-4 py-3">
         <Character src={CHARACTERS.brushPalette} alt="붓과 팔레트를 든 피터 캐릭터" size={56} />
-        <p className="text-xs text-navy/60 leading-relaxed">
-          EASY ART LAB은 화성오산 이지미술 교육연구회가 직접 만들고 검토한 수업만 추천해요.
+        <p className="text-xs text-navy/60 leading-relaxed text-center">
+          EASY ART LAB은 이지미술 교육연구회가
+          <br />
+          직접 만들고 검토한 수업만 추천해요.
         </p>
       </div>
     </div>
