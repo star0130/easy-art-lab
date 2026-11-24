@@ -27,8 +27,6 @@ export default function RecipeDetail({ recipe, reasons, caveats, onShare, compac
     }
   };
 
-  const needsReview = recipe.reviewStatus && recipe.reviewStatus.includes('확인 필요');
-
   return (
     <div className="w-full max-w-2xl bg-white/70 rounded-3xl p-5 sm:p-7 flex flex-col gap-5 text-left">
       <div className="flex flex-wrap items-center gap-2">
@@ -40,7 +38,6 @@ export default function RecipeDetail({ recipe, reasons, caveats, onShare, compac
         {recipe.activityTypes.map((t) => (
           <Badge key={t}>{t}</Badge>
         ))}
-        {needsReview && <Badge tone="warn">자료 검토 진행 중</Badge>}
       </div>
 
       <h3 className="text-2xl font-bold text-navy">{recipe.title}</h3>
