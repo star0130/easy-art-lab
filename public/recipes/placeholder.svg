@@ -1,0 +1,11 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#C7E5DA" />
+  <rect x="8" y="8" width="384" height="284" rx="20" fill="#FFF8EB" stroke="#293D53" stroke-width="3" stroke-dasharray="10 8" />
+  <g transform="translate(200,118)" stroke="#293D53" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M-38 36 L-10 -34 L18 -34 L46 36" />
+    <path d="M-24 6 L34 6" />
+    <circle cx="-10" cy="-34" r="4" fill="#293D53" stroke="none" />
+  </g>
+  <text x="200" y="196" text-anchor="middle" font-family="'Pretendard','Noto Sans KR',sans-serif" font-size="20" fill="#293D53" font-weight="600">레시피 이미지 준비 중</text>
+  <text x="200" y="224" text-anchor="middle" font-family="'Pretendard','Noto Sans KR',sans-serif" font-size="14" fill="#3e5572">연구회에서 이미지를 등록하면 표시됩니다</text>
+</svg>

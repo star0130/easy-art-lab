@@ -1,0 +1,955 @@
+{
+  "recipes": [
+    {
+      "id": "ART419",
+      "order": 419,
+      "title": "오방색·오간색으로 단청 서까래 장식 만들기",
+      "grades": [
+        6
+      ],
+      "gradeEvidence": "6학년",
+      "activityTypes": [
+        "공예·만들기",
+        "디자인"
+      ],
+      "topics": [
+        "전통문화·국가유산",
+        "무늬·패턴"
+      ],
+      "materials": [
+        "검은색 또는 흰색 A4 도화지",
+        "연필",
+        "자",
+        "컴퍼스",
+        "목공풀",
+        "포스터물감 또는 아크릴물감",
+        "붓",
+        "물통",
+        "팔레트",
+        "태블릿PC"
+      ],
+      "materialsRaw": "검은색 또는 흰색 A4 도화지, 연필, 자, 컴퍼스, 목공풀, 포스터물감 또는 아크릴물감, 붓, 물통, 팔레트, 태블릿PC",
+      "materialTags": [
+        "종이류",
+        "가위·풀·테이프",
+        "채색도구",
+        "디지털기기"
+      ],
+      "prepLevel": "중",
+      "durationMinutes": null,
+      "periodLabel": "3~4/6차시",
+      "summary": "오방색·오간색과 단청 문양의 특징을 배우고, 문양을 채색한 종이를 말아 교실 문 위에 장식할 서까래 모형을 만든다.",
+      "steps": [
+        "단청과 전통색 알아보기",
+        "단청 문양 관찰하기",
+        "문양과 서까래 도안 그리기",
+        "채색하고 모형 만들기",
+        "교실 장식·감상하기"
+      ],
+      "tip": "오방색·오간색 활용에 집중하고 문양 상징은 간략히 다룬다. 복잡한 문양은 단계별 시범과 수준별 예시를 제공한다.",
+      "curriculumCode": "[6미02-03]",
+      "reviewStatus": "자료 반영(일부 확인 필요)",
+      "reviewMemo": "기존 영상 설명란에는 휴지심이 있지만 지도안 준비물에는 없음. 실제 수업 준비물 확인 필요.",
+      "videoUrl": "https://youtu.be/gzLzL4ddUWA",
+      "imageFile": null,
+      "active": true
+    },
+    {
+      "id": "ART414",
+      "order": 414,
+      "title": "Gemini Gems로 AI 예술 비평가 만들기",
+      "grades": [
+        5
+      ],
+      "gradeEvidence": "5학년",
+      "activityTypes": [
+        "디지털 미술·에듀테크",
+        "감상·비평"
+      ],
+      "topics": [
+        "시각문화·미디어"
+      ],
+      "materials": [
+        "태블릿PC"
+      ],
+      "materialsRaw": "태블릿PC",
+      "materialTags": [
+        "디지털기기"
+      ],
+      "prepLevel": "하",
+      "durationMinutes": null,
+      "periodLabel": "2/4차시",
+      "summary": "자신의 감상과 AI 질문을 비교하며 펠드만의 서술·분석·해석·판단 단계에 따라 미술 작품 비평문을 작성한다.",
+      "steps": [
+        "감상문 경험 이야기하기",
+        "작품 먼저 비평해 보기",
+        "AI 비평가 만들기",
+        "AI와 비평 대화하기",
+        "비평문 보완·공유하기"
+      ],
+      "tip": "AI가 학생의 답을 대신 작성하지 않도록 질문 중심의 프롬프트를 사용하고, 교과서와 공신력 있는 자료를 함께 확인하게 한다. 학생 계정 이용 조건은 운영 전 확인 필요.",
+      "curriculumCode": "[6미03-04]",
+      "reviewStatus": "자료 반영(일부 확인 필요)",
+      "reviewMemo": "원문에 서비스 이용 연령 설명이 있으나 운영 전 최신 약관·학교 계정 정책 별도 확인 필요.",
+      "videoUrl": "https://youtu.be/5gocsQaJuN8",
+      "imageFile": null,
+      "active": true
+    },
+    {
+      "id": "ART422",
+      "order": 422,
+      "title": "오일파스텔로 내가 사랑한 풍경 그리기",
+      "grades": [
+        6
+      ],
+      "gradeEvidence": "6학년",
+      "activityTypes": [
+        "그리기·회화"
+      ],
+      "topics": [
+        "자연·계절",
+        "생활·일상"
+      ],
+      "materials": [
+        "오일파스텔",
+        "종이",
+        "종이테이프",
+        "면봉",
+        "사진자료",
+        "디지털기기"
+      ],
+      "materialsRaw": "오일파스텔, 종이, 종이테이프, 면봉, 사진자료, 디지털기기",
+      "materialTags": [
+        "채색도구",
+        "종이류",
+        "가위·풀·테이프",
+        "사진자료",
+        "디지털기기"
+      ],
+      "prepLevel": "중",
+      "durationMinutes": null,
+      "periodLabel": "5~6/6차시",
+      "summary": "풍경 사진을 고르고 오일파스텔의 겹쳐 칠하기·문지르기 특징을 활용해 풍경화를 그린다.",
+      "steps": [
+        "그릴 풍경 떠올리기",
+        "재료의 특성 탐색하기",
+        "풍경 사진 선택하기",
+        "풍경화 표현하기",
+        "작품 감상하기"
+      ],
+      "tip": "복잡한 풍경보다 색감을 살릴 수 있는 소재를 선택한다. 테이프는 책상에 한 번 붙였다 떼어 접착력을 낮추고, 작은 종이를 쓰면 문지르기가 수월하다.",
+      "curriculumCode": "[6미02-02]; [6미03-02]",
+      "reviewStatus": "자료 반영(일부 확인 필요)",
+      "reviewMemo": "지도안 준비물은 기존 설명란의 목록과 일부 다름. 지도안 명시 기준으로 정리.",
+      "videoUrl": "https://youtu.be/AkON9x6PM-8",
+      "imageFile": null,
+      "active": true
+    },
+    {
+      "id": "ART359",
+      "order": 359,
+      "title": "색의 속성으로 만드는 구슬 아이스크림",
+      "grades": [
+        6
+      ],
+      "gradeEvidence": "6학년",
+      "activityTypes": [
+        "조형·입체 표현",
+        "공예·만들기"
+      ],
+      "topics": [
+        "생활·일상",
+        "무늬·패턴"
+      ],
+      "materials": [
+        "색점토",
+        "색 종이컵",
+        "색종이",
+        "필기도구",
+        "네임펜",
+        "가위",
+        "풀"
+      ],
+      "materialsRaw": "색점토, 색 종이컵, 색종이, 필기도구, 네임펜, 가위, 풀",
+      "materialTags": [
+        "점토·클레이",
+        "재활용품",
+        "종이류",
+        "채색도구",
+        "가위·풀·테이프"
+      ],
+      "prepLevel": "중",
+      "durationMinutes": null,
+      "periodLabel": "1~2/6차시",
+      "summary": "색의 3속성을 배우고 색점토에 흰색·검정색을 조금씩 섞어 명도 변화를 표현한 뒤 아이스크림 컵을 꾸민다.",
+      "steps": [
+        "색의 세 가지 속성 알아보기",
+        "아이스크림 맛과 색 구상하기",
+        "색점토 명도 변화 만들기",
+        "컵 꾸미고 완성하기",
+        "활동 돌아보기"
+      ],
+      "tip": "흰색·검정색 점토를 조금씩 첨가하여 명도의 변화를 관찰하게 한다.",
+      "curriculumCode": "[6미01-03]; [6미01-02]",
+      "reviewStatus": "자료 반영(일부 확인 필요)",
+      "reviewMemo": "지도안에서 6학년/1~2차시를 확인. 실제 수업 총 시간은 미기재.",
+      "videoUrl": "https://youtu.be/k2bLW7L4zto",
+      "imageFile": null,
+      "active": true
+    },
+    {
+      "id": "ART365",
+      "order": 365,
+      "title": "일상 풍경을 담은 어반스케치 엽서",
+      "grades": [
+        6
+      ],
+      "gradeEvidence": "6학년",
+      "activityTypes": [
+        "그리기·회화"
+      ],
+      "topics": [
+        "생활·일상",
+        "우리 동네·지역"
+      ],
+      "materials": [
+        "도화지",
+        "수채 색연필",
+        "워터 브러시",
+        "연필",
+        "지우개",
+        "드로잉펜",
+        "휴지"
+      ],
+      "materialsRaw": "도화지, 수채 색연필, 워터 브러시, 연필, 지우개, 드로잉펜, 휴지",
+      "materialTags": [
+        "종이류",
+        "채색도구"
+      ],
+      "prepLevel": "중",
+      "durationMinutes": null,
+      "periodLabel": "1~2/6차시",
+      "summary": "일상의 풍경을 선택하여 연필로 구도를 잡고 드로잉펜과 수채 색연필·워터 브러시로 표현하는 엽서 만들기 활동.",
+      "steps": [
+        "그림으로 남길 일상 떠올리기",
+        "어반스케치와 도구 살펴보기",
+        "그릴 장면 선택하기",
+        "펜선과 색채 표현하기",
+        "서로 작품 감상하기"
+      ],
+      "tip": "가로·세로선을 활용해 음영과 깊이감을 나타내고, 색을 바꿀 때에는 워터 브러시 끝을 휴지로 닦는다.",
+      "curriculumCode": "[6미02-02]",
+      "reviewStatus": "자료 반영(일부 확인 필요)",
+      "reviewMemo": "원본 영상 DB의 준비물이 미기재였으나 지도안에 명시됨.",
+      "videoUrl": "https://youtu.be/fKr043zQgR8",
+      "imageFile": null,
+      "active": true
+    },
+    {
+      "id": "ART335",
+      "order": 335,
+      "title": "미술 작품 속 색을 찾아 소개하는 포스터",
+      "grades": [
+        3,
+        4
+      ],
+      "gradeEvidence": "3~4학년(관련 교과서)",
+      "activityTypes": [
+        "디자인",
+        "디지털 미술·에듀테크",
+        "감상·비평"
+      ],
+      "topics": [
+        "시각문화·미디어",
+        "감정·상상"
+      ],
+      "materials": [
+        "스마트기기",
+        "Canva",
+        "Google Arts & Culture"
+      ],
+      "materialsRaw": "스마트기기, Canva, Google Arts & Culture",
+      "materialTags": [
+        "디지털기기"
+      ],
+      "prepLevel": "하",
+      "durationMinutes": null,
+      "periodLabel": "미기재",
+      "summary": "관심 있는 색을 골라 Google Arts & Culture에서 관련 미술 작품을 찾고 Canva로 색의 느낌과 작품 이미지를 소개하는 포스터를 만든다.",
+      "steps": [
+        "색이 주는 느낌 알아보기",
+        "관심 색과 작품 탐색하기",
+        "작품 이미지 2~3점 선택하기",
+        "Canva 포스터 제작하기",
+        "저장하고 함께 감상하기"
+      ],
+      "tip": "작품을 가리지 않도록 장식 요소를 과도하게 사용하지 않으며 색 이름을 해당 색으로 표현한다. 작품 이미지의 수업 외 공개·재배포 권한은 별도 확인한다.",
+      "curriculumCode": "원문 성취기준 코드 미기재",
+      "reviewStatus": "자료 반영(일부 확인 필요)",
+      "reviewMemo": "수업 시간 및 수업 총 차시가 시나리오에 미기재. 구글 아트앤컬쳐·Canva가 활용 도구임. 게시 용도 이미지의 사용권한 확인 필요.",
+      "videoUrl": "https://www.youtube.com/watch?v=PSDVAeP36r8&t=2s",
+      "imageFile": null,
+      "active": true
+    },
+    {
+      "id": "ART332",
+      "order": 332,
+      "title": "사진과 먹지로 친구 초상화 그리기",
+      "grades": [
+        4
+      ],
+      "gradeEvidence": "4학년(관련 단원)",
+      "activityTypes": [
+        "그리기·회화"
+      ],
+      "topics": [
+        "인물·자화상",
+        "감정·상상"
+      ],
+      "materials": [
+        "디지털기기",
+        "도화지",
+        "먹지",
+        "연필",
+        "색연필",
+        "수채화 도구",
+        "인쇄한 사진",
+        "테이프"
+      ],
+      "materialsRaw": "디지털기기, 도화지, 먹지, 연필, 색연필, 수채화 도구, 인쇄한 사진, 테이프",
+      "materialTags": [
+        "디지털기기",
+        "종이류",
+        "채색도구",
+        "사진자료",
+        "가위·풀·테이프"
+      ],
+      "prepLevel": "중",
+      "durationMinutes": null,
+      "periodLabel": "미기재",
+      "summary": "친구 얼굴 사진을 촬영·인쇄한 다음 먹지로 윤곽선을 옮기고 색연필로 명암, 수채화로 배경을 표현한다.",
+      "steps": [
+        "친구 초상화 이해하기",
+        "친구 사진 촬영·인쇄하기",
+        "먹지로 얼굴 윤곽 옮기기",
+        "색연필로 명암 표현하기",
+        "수채화 배경과 작품 나누기"
+      ],
+      "tip": "먹지는 너무 약하거나 강하지 않은 적당한 힘으로 사용한다. 색연필은 약한 힘으로 여러 번 겹쳐 칠하고 얼굴 사진을 안전하게 취급한다(개인정보 관리는 별도 운영 권고).",
+      "curriculumCode": "원문 성취기준 코드 미기재",
+      "reviewStatus": "자료 반영(일부 확인 필요)",
+      "reviewMemo": "시나리오에 실제 차시 및 수업 시간 미기재. 얼굴 촬영·공유 시 학생 초상권과 개인정보 처리 필요. 시나리오는 제작 예시에 AI 생성 인물 사진을 사용함.",
+      "videoUrl": "https://www.youtube.com/watch?v=0ozQfrxGBdI",
+      "imageFile": null,
+      "active": true
+    },
+    {
+      "id": "ART302",
+      "order": 302,
+      "title": "상상 속 색점토 막대 아이스크림 만들기",
+      "grades": [
+        1,
+        2
+      ],
+      "gradeEvidence": "1학년 관련 단원(영상 설명란에는 1~2학년 연계 기재)",
+      "activityTypes": [
+        "조형·입체 표현",
+        "공예·만들기"
+      ],
+      "topics": [
+        "감정·상상",
+        "생활·일상"
+      ],
+      "materials": [
+        "색점토",
+        "아이스크림 막대",
+        "꾸미기 재료",
+        "네임펜"
+      ],
+      "materialsRaw": "색점토, 아이스크림 막대, 꾸미기 재료, 네임펜",
+      "materialTags": [
+        "점토·클레이",
+        "재활용품",
+        "채색도구"
+      ],
+      "prepLevel": "하",
+      "durationMinutes": null,
+      "periodLabel": "미기재",
+      "summary": "세상에 없는 새로운 맛의 아이스크림을 상상하고, 여러 색의 점토를 섞어 막대 아이스크림 모형을 만든 뒤 친구들과 작품을 감상한다.",
+      "steps": [
+        "상상 속 아이스크림 떠올리기",
+        "색점토 특성 살펴보기",
+        "아이스크림 색과 모양 만들기",
+        "막대 끼우고 꾸미기",
+        "맛 이름 쓰고 작품 감상하기"
+      ],
+      "tip": "아이스크림 맛을 표현하는 색에 정답이 없음을 안내한다. 비슷한 모양의 점토 판 2장 사이에 막대를 끼우고 가장자리를 잘 연결하며, 작은 꾸미기 재료는 눌러 붙이게 한다.",
+      "curriculumCode": "미기재(원본 시나리오에 성취기준 없음)",
+      "reviewStatus": "자료 반영(일부 확인 필요)",
+      "reviewMemo": "1학년 색점토 막대 아이스크림 시나리오(#302) 반영. 6학년 구슬 아이스크림(#359)과 별개. 실제 수업 시간·공개권한·준비물 필수여부 확인 필요. 연계 단원 문구는 시나리오와 영상 설명란이 다름.",
+      "videoUrl": "https://www.youtube.com/watch?v=-ugZPWAFVBE",
+      "imageFile": null,
+      "active": true
+    },
+    {
+      "id": "ART413",
+      "order": 413,
+      "title": "스케치북 앱으로 우리 지역 홍보 포스터",
+      "grades": [
+        6
+      ],
+      "gradeEvidence": "6학년(관련 단원)",
+      "activityTypes": [
+        "디지털 미술·에듀테크",
+        "디자인"
+      ],
+      "topics": [
+        "우리 동네·지역",
+        "시각문화·미디어"
+      ],
+      "materials": [
+        "스케치북 앱",
+        "디지털 기기"
+      ],
+      "materialsRaw": "스케치북 앱, 디지털 기기",
+      "materialTags": [
+        "디지털기기"
+      ],
+      "prepLevel": "미기재",
+      "durationMinutes": null,
+      "periodLabel": "미기재",
+      "summary": "우리 지역의 자연환경·관광지·특산물·문화유산 등을 조사하고 디지털 드로잉으로 홍보 포스터를 제작한다.",
+      "steps": [
+        "홍보 포스터 살펴보기",
+        "스케치북 앱 익히기",
+        "홍보 소재와 구성 정하기",
+        "디지털 포스터 제작하기",
+        "저장하고 감상하기"
+      ],
+      "tip": "새 요소를 추가할 때마다 레이어를 분리하고, 페인트통 사용 시 윤곽선이 끊기지 않았는지 확인하도록 한다.",
+      "curriculumCode": "[6미02-03]",
+      "reviewStatus": "자료 반영(일부 확인 필요)",
+      "reviewMemo": "파일에 수업 시간·준비물 별도 목록 없음. 앱·디지털 기기는 수업 과정에서 확인되는 도구임.",
+      "videoUrl": "https://youtu.be/pgoqVIdrbBo",
+      "imageFile": null,
+      "active": true
+    },
+    {
+      "id": "ART398",
+      "order": 398,
+      "title": "ZEP으로 나만의 온라인 전시회 열기",
+      "grades": [
+        5
+      ],
+      "gradeEvidence": "5학년",
+      "activityTypes": [
+        "디지털 미술·에듀테크",
+        "감상·비평"
+      ],
+      "topics": [
+        "시각문화·미디어"
+      ],
+      "materials": [
+        "태블릿PC"
+      ],
+      "materialsRaw": "태블릿PC",
+      "materialTags": [
+        "디지털기기"
+      ],
+      "prepLevel": "하",
+      "durationMinutes": null,
+      "periodLabel": "3~4/4차시",
+      "summary": "그동안 제작한 작품 사진을 ZEP 전시장에 배치하고 제목과 설명을 붙여 친구들과 서로의 작품을 감상한다.",
+      "steps": [
+        "메타버스 알아보기",
+        "작품 이미지 준비하기",
+        "ZEP 전시장 만들기",
+        "전시장 꾸미고 공유하기",
+        "온라인 감상하기"
+      ],
+      "tip": "서로 다른 작품이 업로드되도록 독려하고, 이미지 크기 조절 방법을 시범 보인다. 전시 링크 공유 범위와 학생 정보 노출을 점검한다(개인정보 점검은 추가 운영 권고).",
+      "curriculumCode": "[6미03-02]; [6미03-04]",
+      "reviewStatus": "자료 반영(일부 확인 필요)",
+      "reviewMemo": "ZEP 기능·서비스 정책은 실제 운영 전 재확인 필요. 학생 정보 노출 점검은 추가 운영 권고.",
+      "videoUrl": "https://youtu.be/dpFN76n6F1E",
+      "imageFile": null,
+      "active": true
+    },
+    {
+      "id": "ART409",
+      "order": 409,
+      "title": "종이 3장으로 만드는 움직이는 플립북",
+      "grades": [
+        6
+      ],
+      "gradeEvidence": "6학년(관련 단원)",
+      "activityTypes": [
+        "그리기·회화",
+        "사진·영상"
+      ],
+      "topics": [
+        "이야기·문학",
+        "시각문화·미디어"
+      ],
+      "materials": [
+        "A4 종이 3장",
+        "연필",
+        "네임펜",
+        "채색도구",
+        "집게",
+        "가위"
+      ],
+      "materialsRaw": "A4 종이 3장, 연필, 네임펜, 채색도구, 집게, 가위",
+      "materialTags": [
+        "종이류",
+        "채색도구",
+        "가위·풀·테이프"
+      ],
+      "prepLevel": "미기재",
+      "durationMinutes": null,
+      "periodLabel": "미기재",
+      "summary": "그림이 조금씩 바뀌는 종이 장면을 연속으로 그려 넘기면서 움직임이 보이는 플립북을 만든다.",
+      "steps": [
+        "애니메이션 원리 살펴보기",
+        "움직임 구상하기",
+        "종이 자르고 연속 그림 그리기",
+        "선 정리·채색하고 묶기",
+        "플립북 넘겨 감상하기"
+      ],
+      "tip": "장면 변화가 작을수록 움직임이 자연스럽다. 원본 지도안에는 A4 3장을 각 8등분(24장)이라고 적은 뒤 32장에 스케치한다고 적혀 있어 장수 확인이 필요하다.",
+      "curriculumCode": "[6미02-01]",
+      "reviewStatus": "자료 반영(일부 확인 필요)",
+      "reviewMemo": "원본에 종이 24장(3장×8등분)과 32장 스케치가 혼재함: 실제 제작 분량 재확인.",
+      "videoUrl": "https://youtu.be/64Ic60V0HYE",
+      "imageFile": null,
+      "active": true
+    },
+    {
+      "id": "ART427",
+      "order": 427,
+      "title": "세계 여러 나라의 전통가옥 만들기",
+      "grades": [
+        2
+      ],
+      "gradeEvidence": "2학년",
+      "activityTypes": [
+        "조형·입체 표현",
+        "공예·만들기"
+      ],
+      "topics": [
+        "전통문화·국가유산",
+        "생활·일상"
+      ],
+      "materials": [
+        "클레이",
+        "솜",
+        "색지",
+        "모루",
+        "가위",
+        "풀",
+        "핀",
+        "뚜껑 등 집 모형 받침"
+      ],
+      "materialsRaw": "클레이, 솜, 색지, 모루, 가위, 풀, 핀, 뚜껑 등 집 모형 받침",
+      "materialTags": [
+        "점토·클레이",
+        "재활용품",
+        "종이류",
+        "가위·풀·테이프"
+      ],
+      "prepLevel": "미기재",
+      "durationMinutes": 40,
+      "periodLabel": "총 1차시",
+      "summary": "환경에 따라 다른 세계의 전통가옥을 살펴보고 이글루·풍차 집·티피 중 하나를 선택해 여러 재료로 표현한다.",
+      "steps": [
+        "집의 모양 질문하기",
+        "전통가옥 특징 알아보기",
+        "전통가옥 만들기",
+        "감상과 공유하기",
+        "자기평가·다음 시간 안내"
+      ],
+      "tip": "다양한 문화의 집을 우열 없이 비교한다. 가위·핀 안전 사용을 지도하고, 재료 조작이 어려우면 미리 자른 재료나 또래 도움을 제공한다.",
+      "curriculumCode": "[2즐02-03]; [2슬04-02]",
+      "reviewStatus": "자료 반영(일부 확인 필요)",
+      "reviewMemo": "총 40분으로 명시됐으나 세부 시간 합계는 42분(3+2+7+20+6+2+2). 운영 시간 조정 필요.",
+      "videoUrl": "https://youtu.be/Caj6Nx2KuIg",
+      "imageFile": null,
+      "active": true
+    },
+    {
+      "id": "ART396",
+      "order": 396,
+      "title": "김홍도 풍속화를 현대의 생활로 바꾸어 그리기",
+      "grades": [],
+      "gradeEvidence": "미기재",
+      "activityTypes": [
+        "그리기·회화"
+      ],
+      "topics": [
+        "전통문화·국가유산",
+        "생활·일상"
+      ],
+      "materials": [
+        "인쇄한 김홍도 작품 사진",
+        "화선지",
+        "연필",
+        "지우개",
+        "붓펜",
+        "테이프",
+        "수채화 용구"
+      ],
+      "materialsRaw": "인쇄한 김홍도 작품 사진, 화선지, 연필, 지우개, 붓펜, 테이프, 수채화 용구",
+      "materialTags": [
+        "사진자료",
+        "종이류",
+        "채색도구",
+        "가위·풀·테이프"
+      ],
+      "prepLevel": "미기재",
+      "durationMinutes": null,
+      "periodLabel": "미기재",
+      "summary": "김홍도 풍속화의 구도를 참고해 등장인물과 배경을 오늘날 생활 모습으로 바꾸어 그리는 활동.",
+      "steps": [
+        "김홍도 풍속화 감상하기",
+        "현대 풍속화 구상하기",
+        "화선지에 스케치하기",
+        "붓펜으로 선화 그리기",
+        "연하게 채색하기"
+      ],
+      "tip": "얇은 화선지가 찢어지지 않도록 연필을 연하게 사용한다. 원본의 구도는 참고하되 인물·배경을 자유롭게 바꾸고 채색은 여백을 남겨도 좋다.",
+      "curriculumCode": "미기재",
+      "reviewStatus": "자료 반영(일부 확인 필요)",
+      "reviewMemo": "시나리오에 대상 학년, 성취기준, 수업 시간이 명시되지 않아 검토 필요.",
+      "videoUrl": "https://youtu.be/VXLhIqGMA60",
+      "imageFile": null,
+      "active": true
+    },
+    {
+      "id": "ART326",
+      "order": 326,
+      "title": "협동 수묵화로 숲 속 풍경 만들기",
+      "grades": [
+        3
+      ],
+      "gradeEvidence": "3학년",
+      "activityTypes": [
+        "그리기·회화"
+      ],
+      "topics": [
+        "자연·계절",
+        "전통문화·국가유산"
+      ],
+      "materials": [],
+      "materialsRaw": "",
+      "materialTags": [],
+      "prepLevel": "상",
+      "durationMinutes": null,
+      "periodLabel": "57~58차시(총 2차시로 해석 가능, 검토 필요)",
+      "summary": "먹색의 농담을 탐색하며 나무와 나뭇잎을 수묵으로 표현하고 모둠이 함께 숲 속 풍경을 완성한다.",
+      "steps": [
+        "수묵화 감상하기",
+        "먹의 농담과 표현 익히기",
+        "먹으로 나무 그리기",
+        "협동 숲 풍경 구성하기",
+        "서로의 작품 감상하기"
+      ],
+      "tip": "앞치마·팔토시를 준비하고, 화선지에 붓 물기가 많으면 번지므로 휴지로 조절한다. 학생이 나뭇잎의 실제 모습을 관찰해 표현하게 한다.",
+      "curriculumCode": "[4미02-01]; [4미02-02]",
+      "reviewStatus": "자료 반영(일부 확인 필요)",
+      "reviewMemo": "지도안 준비물란 자체는 비어 있음. 기존 영상 DB에서 확보한 준비물은 그대로 두되 출처를 구분.",
+      "videoUrl": "https://www.youtube.com/watch?v=Hgftsjw-8PQ",
+      "imageFile": null,
+      "active": true
+    },
+    {
+      "id": "ART293",
+      "order": 293,
+      "title": "친구와 함께 연출·착시 사진 찍기",
+      "grades": [
+        4
+      ],
+      "gradeEvidence": "4학년",
+      "activityTypes": [
+        "사진·영상"
+      ],
+      "topics": [
+        "시각문화·미디어",
+        "감정·상상"
+      ],
+      "materials": [
+        "활동지 ⑧",
+        "필기도구",
+        "사진기 또는 디지털 기기"
+      ],
+      "materialsRaw": "활동지 ⑧, 필기도구, 사진기 또는 디지털 기기",
+      "materialTags": [
+        "디지털기기",
+        "사진자료"
+      ],
+      "prepLevel": "하",
+      "durationMinutes": null,
+      "periodLabel": "3~4/4차시",
+      "summary": "사진 구도·각도와 원근 착시를 탐색하고 모둠별 계획을 세워 연출·착시 사진을 찍는 활동.",
+      "steps": [
+        "사진의 역할 알아보기",
+        "촬영 방법 탐색하기",
+        "촬영 계획 세우기",
+        "모둠별 촬영하기",
+        "사진 감상하기"
+      ],
+      "tip": "촬영 전 역할을 분담하고 사진기 조작(초점·각도·구도)을 시범으로 익히도록 한다.",
+      "curriculumCode": "[4미02-04]; [4미03-02]",
+      "reviewStatus": "자료 반영(일부 확인 필요)",
+      "reviewMemo": "학생 사진 공개/초상권 확인이 필요함(추가 운영 권고).",
+      "videoUrl": "https://www.youtube.com/watch?v=q6Nt3yuRKwA&t=20s",
+      "imageFile": null,
+      "active": true
+    },
+    {
+      "id": "ART284",
+      "order": 284,
+      "title": "움직이는 키네틱아트 장난감 만들기",
+      "grades": [
+        3
+      ],
+      "gradeEvidence": "3학년",
+      "activityTypes": [
+        "조형·입체 표현",
+        "공예·만들기"
+      ],
+      "topics": [
+        "과학·미래",
+        "감정·상상"
+      ],
+      "materials": [
+        "색종이",
+        "우유갑",
+        "철사",
+        "도화지",
+        "가위",
+        "풀",
+        "채색도구",
+        "테이프"
+      ],
+      "materialsRaw": "색종이, 우유갑, 철사, 도화지, 가위, 풀, 채색도구, 테이프",
+      "materialTags": [
+        "종이류",
+        "재활용품",
+        "가위·풀·테이프",
+        "채색도구"
+      ],
+      "prepLevel": "중",
+      "durationMinutes": null,
+      "periodLabel": "4/6차시",
+      "summary": "우유갑·철사·색종이 등을 이용해 돌리면 움직이는 장난감 형태의 키네틱아트 작품을 만든다.",
+      "steps": [
+        "움직이는 미술 감상하기",
+        "작품 구상하기",
+        "움직이는 장치 만들기",
+        "장난감 조립하기",
+        "작동·감상하고 정리하기"
+      ],
+      "tip": "철사를 구부리거나 끼울 때 교사가 도와주고, 장치가 구부러지지 않게 고정 상태를 확인하도록 한다.",
+      "curriculumCode": "[4미02-04]",
+      "reviewStatus": "자료 반영(일부 확인 필요)",
+      "reviewMemo": "철사 조작 시 안전 지도 필요.",
+      "videoUrl": "https://www.youtube.com/watch?v=K3RNkJjAC9U&t=9s",
+      "imageFile": null,
+      "active": true
+    },
+    {
+      "id": "ART270",
+      "order": 270,
+      "title": "수채화 번지기로 감정 캐릭터 그리기",
+      "grades": [],
+      "gradeEvidence": "미기재",
+      "activityTypes": [
+        "그리기·회화"
+      ],
+      "topics": [
+        "감정·상상"
+      ],
+      "materials": [
+        "종이 2장",
+        "물",
+        "수채화 물감",
+        "붓",
+        "얇은 검정 잉크펜"
+      ],
+      "materialsRaw": "종이 2장, 물, 수채화 물감, 붓, 얇은 검정 잉크펜",
+      "materialTags": [
+        "종이류",
+        "채색도구"
+      ],
+      "prepLevel": "하",
+      "durationMinutes": null,
+      "periodLabel": "미기재",
+      "summary": "감정과 어울리는 색을 탐색하고 종이에 물을 바른 뒤 수채 물감을 떨어뜨려 번지게 하여 감정 캐릭터를 완성한다.",
+      "steps": [
+        "수채화의 번지기 이해하기",
+        "감정·색·표정 구상하기",
+        "종이에 물과 물감 떨어뜨리기",
+        "캐릭터 표정과 몸짓 더하기",
+        "감정 캐릭터 감상하기"
+      ],
+      "tip": "물의 양이 너무 적으면 번짐이 약하고 너무 많으면 형태를 조절하기 어려우니 적절한 양을 실험한다. 종이가 마른 후 검정 펜으로 그린다.",
+      "curriculumCode": "원문 성취기준 코드 미기재",
+      "reviewStatus": "자료 반영(일부 확인 필요)",
+      "reviewMemo": "시나리오에 학년·차시·시간이 표기되지 않음. 그림책 「감정 호텔」 언급은 출처 확인 대상; 그림책 이미지 공개 재배포 권한 별도 검토.",
+      "videoUrl": "https://www.youtube.com/watch?v=9EJexD19plA&t=13s",
+      "imageFile": null,
+      "active": true
+    },
+    {
+      "id": "ART273",
+      "order": 273,
+      "title": "마음을 전하는 세 가지 팝업카드 만들기",
+      "grades": [
+        1
+      ],
+      "gradeEvidence": "1학년(관련 통합교과)",
+      "activityTypes": [
+        "공예·만들기",
+        "디자인"
+      ],
+      "topics": [
+        "감정·상상",
+        "생활·일상"
+      ],
+      "materials": [
+        "A4 색지",
+        "16절 도화지",
+        "가위",
+        "풀",
+        "연필",
+        "지우개",
+        "색연필"
+      ],
+      "materialsRaw": "A4 색지, 16절 도화지, 가위, 풀, 연필, 지우개, 색연필",
+      "materialTags": [
+        "종이류",
+        "가위·풀·테이프",
+        "채색도구"
+      ],
+      "prepLevel": "하",
+      "durationMinutes": null,
+      "periodLabel": "미기재",
+      "summary": "종이를 접고 가위집을 내어 펼치면 튀어나오는 기본형·2단 케이크형·꽃다발형 팝업카드 중 원하는 형태를 만든다.",
+      "steps": [
+        "입체카드의 특징 알아보기",
+        "카드 형태 선택하기",
+        "종이 접고 가위집 내기",
+        "색지 덧대고 꾸미기",
+        "펼쳐 확인하고 마음 전하기"
+      ],
+      "tip": "겉 색지를 붙일 때 접힌 선을 정확하게 맞추고 입체 부분이 잘 펴지는지 수시로 확인한다. 여러 형태 중 한 가지를 골라 제작해도 좋다(운영 변형 제안).",
+      "curriculumCode": "원문 성취기준 코드 미기재",
+      "reviewStatus": "자료 반영(일부 확인 필요)",
+      "reviewMemo": "수업 시간 미기재. 시나리오는 3가지 카드 제작을 소개하지만 한 차시에 3개 모두 제작하는 수업이라고 단정하지 않음. 가위 안전지도 필요.",
+      "videoUrl": "https://www.youtube.com/watch?v=hDrK7ocQHZk",
+      "imageFile": null,
+      "active": true
+    },
+    {
+      "id": "ART303",
+      "order": 303,
+      "title": "모두를 위한 우리 마을 유니버설 디자인",
+      "grades": [
+        3
+      ],
+      "gradeEvidence": "3학년(관련 교과서)",
+      "activityTypes": [
+        "디자인",
+        "공예·만들기"
+      ],
+      "topics": [
+        "사회·공동체·참여",
+        "우리 동네·지역"
+      ],
+      "materials": [
+        "미술 교과서",
+        "도화지 3장",
+        "색지 1장",
+        "연필",
+        "지우개",
+        "색연필 또는 사인펜",
+        "가위",
+        "풀"
+      ],
+      "materialsRaw": "미술 교과서, 도화지 3장, 색지 1장, 연필, 지우개, 색연필 또는 사인펜, 가위, 풀",
+      "materialTags": [
+        "종이류",
+        "채색도구",
+        "가위·풀·테이프"
+      ],
+      "prepLevel": "하",
+      "durationMinutes": null,
+      "periodLabel": "미기재",
+      "summary": "마을의 장소·시설을 유니버설 디자인 관점에서 개선할 아이디어를 생각그물로 구성한 뒤 입체 카드 형태로 제작한다.",
+      "steps": [
+        "유니버설 디자인 이해하기",
+        "마을 시설물 선택하기",
+        "모두를 위한 아이디어 구상하기",
+        "입체형 디자인 카드 제작하기",
+        "제목·설명 적고 작품 공유하기"
+      ],
+      "tip": "한 집단만이 아니라 다양한 이용자가 쓸 수 있는지 살핀다. 도화지 접기·가위집 위치를 시범 보이고, 디자인의 유용성을 설명하는 문장을 쓰게 한다.",
+      "curriculumCode": "원문 성취기준 코드 미기재",
+      "reviewStatus": "자료 반영(일부 확인 필요)",
+      "reviewMemo": "파일명은 유니버설디자인, 시나리오는 유니버셜 디자인이라고 표기; 원본 영상 제목은 변경하지 않고 레시피명만 표준 표기. 대상 학년은 관련 교과서 기준임.",
+      "videoUrl": "https://www.youtube.com/watch?v=Q2bq2rTntbc&t=57s",
+      "imageFile": null,
+      "active": true
+    },
+    {
+      "id": "ART312",
+      "order": 312,
+      "title": "살기 좋은 우리 마을 미래 지도 만들기",
+      "grades": [
+        4
+      ],
+      "gradeEvidence": "4학년",
+      "activityTypes": [
+        "디자인",
+        "융합미술"
+      ],
+      "topics": [
+        "우리 동네·지역",
+        "과학·미래"
+      ],
+      "materials": [
+        "스마트기기",
+        "도화지",
+        "연필",
+        "채색도구",
+        "가위",
+        "풀"
+      ],
+      "materialsRaw": "스마트기기, 도화지, 연필, 채색도구, 가위, 풀",
+      "materialTags": [
+        "디지털기기",
+        "종이류",
+        "채색도구",
+        "가위·풀·테이프"
+      ],
+      "prepLevel": "중",
+      "durationMinutes": null,
+      "periodLabel": "2~3/7차시",
+      "summary": "실제 지도로 우리 마을의 특징과 불편한 점을 살펴보고 미래에 필요한 장소를 상상해 협동 지도를 만든다.",
+      "steps": [
+        "지도와 우리 마을 살펴보기",
+        "미래에 필요한 장소 상상하기",
+        "미래 지도 요소 표현하기",
+        "협동 지도로 구성하기",
+        "작품 감상하기"
+      ],
+      "tip": "학생이 생활하는 마을을 실제 지도에서 찾아 연결한다. 한 명이 여러 장소를 그리기 어려우면 개인별 1~2곳을 분담해 협동작품으로 만들 수 있다.",
+      "curriculumCode": "[4미02-01]",
+      "reviewStatus": "자료 반영(일부 확인 필요)",
+      "reviewMemo": "원문 중 다른 페이지에 3학년 표기도 섞여 있어 학년 표기 재확인 권장(첫 표지와 단원: 4학년).",
+      "videoUrl": "https://www.youtube.com/watch?v=BECn6p_s7b0",
+      "imageFile": null,
+      "active": true
+    }
+  ]
+}
