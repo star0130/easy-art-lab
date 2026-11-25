@@ -525,7 +525,7 @@
         "선 정리·채색하고 묶기",
         "플립북 넘겨 감상하기"
       ],
-      "tip": "장면 변화가 작을수록 움직임이 자연스럽다. 원본 지도안에는 A4 3장을 각 8등분(24장)이라고 적은 뒤 32장에 스케치한다고 적혀 있어 장수 확인이 필요하다.",
+      "tip": "장면 변화가 작을수록 움직임이 자연스럽다.",
       "curriculumCode": "[6미02-01]",
       "reviewStatus": "자료 반영(일부 확인 필요)",
       "reviewMemo": "원본에 종이 24장(3장×8등분)과 32장 스케치가 혼재함: 실제 제작 분량 재확인.",
@@ -538,7 +538,8 @@
       "order": 427,
       "title": "세계 여러 나라의 전통가옥 만들기",
       "grades": [
-        2
+        2,
+        1
       ],
       "gradeEvidence": "2학년",
       "activityTypes": [
@@ -566,8 +567,8 @@
         "종이류",
         "가위·풀·테이프"
       ],
-      "prepLevel": "미기재",
-      "durationMinutes": 40,
+      "prepLevel": "중",
+      "durationMinutes": 80,
       "periodLabel": "총 1차시",
       "summary": "환경에 따라 다른 세계의 전통가옥을 살펴보고 이글루·풍차 집·티피 중 하나를 선택해 여러 재료로 표현한다.",
       "steps": [
@@ -582,14 +583,17 @@
       "reviewStatus": "자료 반영(일부 확인 필요)",
       "reviewMemo": "총 40분으로 명시됐으나 세부 시간 합계는 42분(3+2+7+20+6+2+2). 운영 시간 조정 필요.",
       "videoUrl": "https://youtu.be/Caj6Nx2KuIg",
-      "imageFile": null,
+      "imageFile": "1795589530807_12.png",
       "active": true
     },
     {
       "id": "ART396",
       "order": 396,
       "title": "김홍도 풍속화를 현대의 생활로 바꾸어 그리기",
-      "grades": [],
+      "grades": [
+        5,
+        6
+      ],
       "gradeEvidence": "미기재",
       "activityTypes": [
         "그리기·회화"
@@ -614,8 +618,8 @@
         "채색도구",
         "가위·풀·테이프"
       ],
-      "prepLevel": "미기재",
-      "durationMinutes": null,
+      "prepLevel": "상",
+      "durationMinutes": 80,
       "periodLabel": "미기재",
       "summary": "김홍도 풍속화의 구도를 참고해 등장인물과 배경을 오늘날 생활 모습으로 바꾸어 그리는 활동.",
       "steps": [
@@ -630,7 +634,7 @@
       "reviewStatus": "자료 반영(일부 확인 필요)",
       "reviewMemo": "시나리오에 대상 학년, 성취기준, 수업 시간이 명시되지 않아 검토 필요.",
       "videoUrl": "https://youtu.be/VXLhIqGMA60",
-      "imageFile": null,
+      "imageFile": "1795589729388_13.png",
       "active": true
     },
     {
@@ -638,7 +642,8 @@
       "order": 326,
       "title": "협동 수묵화로 숲 속 풍경 만들기",
       "grades": [
-        3
+        3,
+        4
       ],
       "gradeEvidence": "3학년",
       "activityTypes": [
@@ -648,11 +653,27 @@
         "자연·계절",
         "전통문화·국가유산"
       ],
-      "materials": [],
-      "materialsRaw": "",
-      "materialTags": [],
+      "materials": [
+        "화선지",
+        "서진",
+        "먹",
+        "벼루",
+        "붓",
+        "물통",
+        "깔개",
+        "4절 도화지",
+        "가위",
+        "풀",
+        "검정 색연필"
+      ],
+      "materialsRaw": "화선지, 서진, 먹, 벼루, 붓, 물통, 깔개, 4절 도화지, 가위, 풀, 검정 색연필",
+      "materialTags": [
+        "종이류",
+        "채색도구",
+        "가위·풀·테이프"
+      ],
       "prepLevel": "상",
-      "durationMinutes": null,
+      "durationMinutes": 80,
       "periodLabel": "57~58차시(총 2차시로 해석 가능, 검토 필요)",
       "summary": "먹색의 농담을 탐색하며 나무와 나뭇잎을 수묵으로 표현하고 모둠이 함께 숲 속 풍경을 완성한다.",
       "steps": [
@@ -667,7 +688,7 @@
       "reviewStatus": "자료 반영(일부 확인 필요)",
       "reviewMemo": "지도안 준비물란 자체는 비어 있음. 기존 영상 DB에서 확보한 준비물은 그대로 두되 출처를 구분.",
       "videoUrl": "https://www.youtube.com/watch?v=Hgftsjw-8PQ",
-      "imageFile": null,
+      "imageFile": "1795589745475_14.png",
       "active": true
     },
     {
@@ -675,7 +696,8 @@
       "order": 293,
       "title": "친구와 함께 연출·착시 사진 찍기",
       "grades": [
-        4
+        4,
+        3
       ],
       "gradeEvidence": "4학년",
       "activityTypes": [
@@ -696,7 +718,7 @@
         "사진자료"
       ],
       "prepLevel": "하",
-      "durationMinutes": null,
+      "durationMinutes": 80,
       "periodLabel": "3~4/4차시",
       "summary": "사진 구도·각도와 원근 착시를 탐색하고 모둠별 계획을 세워 연출·착시 사진을 찍는 활동.",
       "steps": [
@@ -711,7 +733,7 @@
       "reviewStatus": "자료 반영(일부 확인 필요)",
       "reviewMemo": "학생 사진 공개/초상권 확인이 필요함(추가 운영 권고).",
       "videoUrl": "https://www.youtube.com/watch?v=q6Nt3yuRKwA&t=20s",
-      "imageFile": null,
+      "imageFile": "1795589895922_15.png",
       "active": true
     },
     {
@@ -719,7 +741,8 @@
       "order": 284,
       "title": "움직이는 키네틱아트 장난감 만들기",
       "grades": [
-        3
+        3,
+        4
       ],
       "gradeEvidence": "3학년",
       "activityTypes": [
@@ -748,7 +771,7 @@
         "채색도구"
       ],
       "prepLevel": "중",
-      "durationMinutes": null,
+      "durationMinutes": 80,
       "periodLabel": "4/6차시",
       "summary": "우유갑·철사·색종이 등을 이용해 돌리면 움직이는 장난감 형태의 키네틱아트 작품을 만든다.",
       "steps": [
@@ -763,14 +786,19 @@
       "reviewStatus": "자료 반영(일부 확인 필요)",
       "reviewMemo": "철사 조작 시 안전 지도 필요.",
       "videoUrl": "https://www.youtube.com/watch?v=K3RNkJjAC9U&t=9s",
-      "imageFile": null,
+      "imageFile": "1795590234301_16.png",
       "active": true
     },
     {
       "id": "ART270",
       "order": 270,
       "title": "수채화 번지기로 감정 캐릭터 그리기",
-      "grades": [],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
       "gradeEvidence": "미기재",
       "activityTypes": [
         "그리기·회화"
@@ -791,7 +819,7 @@
         "채색도구"
       ],
       "prepLevel": "하",
-      "durationMinutes": null,
+      "durationMinutes": 80,
       "periodLabel": "미기재",
       "summary": "감정과 어울리는 색을 탐색하고 종이에 물을 바른 뒤 수채 물감을 떨어뜨려 번지게 하여 감정 캐릭터를 완성한다.",
       "steps": [
@@ -814,7 +842,8 @@
       "order": 273,
       "title": "마음을 전하는 세 가지 팝업카드 만들기",
       "grades": [
-        1
+        1,
+        2
       ],
       "gradeEvidence": "1학년(관련 통합교과)",
       "activityTypes": [
@@ -841,7 +870,7 @@
         "채색도구"
       ],
       "prepLevel": "하",
-      "durationMinutes": null,
+      "durationMinutes": 80,
       "periodLabel": "미기재",
       "summary": "종이를 접고 가위집을 내어 펼치면 튀어나오는 기본형·2단 케이크형·꽃다발형 팝업카드 중 원하는 형태를 만든다.",
       "steps": [
@@ -851,7 +880,7 @@
         "색지 덧대고 꾸미기",
         "펼쳐 확인하고 마음 전하기"
       ],
-      "tip": "겉 색지를 붙일 때 접힌 선을 정확하게 맞추고 입체 부분이 잘 펴지는지 수시로 확인한다. 여러 형태 중 한 가지를 골라 제작해도 좋다(운영 변형 제안).",
+      "tip": "겉 색지를 붙일 때 접힌 선을 정확하게 맞추고 입체 부분이 잘 펴지는지 수시로 확인한다. 여러 형태 중 한 가지를 골라 제작해도 좋다.",
       "curriculumCode": "원문 성취기준 코드 미기재",
       "reviewStatus": "자료 반영(일부 확인 필요)",
       "reviewMemo": "수업 시간 미기재. 시나리오는 3가지 카드 제작을 소개하지만 한 차시에 3개 모두 제작하는 수업이라고 단정하지 않음. 가위 안전지도 필요.",
@@ -864,7 +893,8 @@
       "order": 303,
       "title": "모두를 위한 우리 마을 유니버설 디자인",
       "grades": [
-        3
+        3,
+        4
       ],
       "gradeEvidence": "3학년(관련 교과서)",
       "activityTypes": [
@@ -892,7 +922,7 @@
         "가위·풀·테이프"
       ],
       "prepLevel": "하",
-      "durationMinutes": null,
+      "durationMinutes": 76,
       "periodLabel": "미기재",
       "summary": "마을의 장소·시설을 유니버설 디자인 관점에서 개선할 아이디어를 생각그물로 구성한 뒤 입체 카드 형태로 제작한다.",
       "steps": [
@@ -915,7 +945,8 @@
       "order": 312,
       "title": "살기 좋은 우리 마을 미래 지도 만들기",
       "grades": [
-        4
+        4,
+        3
       ],
       "gradeEvidence": "4학년",
       "activityTypes": [
@@ -942,7 +973,7 @@
         "가위·풀·테이프"
       ],
       "prepLevel": "중",
-      "durationMinutes": null,
+      "durationMinutes": 80,
       "periodLabel": "2~3/7차시",
       "summary": "실제 지도로 우리 마을의 특징과 불편한 점을 살펴보고 미래에 필요한 장소를 상상해 협동 지도를 만든다.",
       "steps": [

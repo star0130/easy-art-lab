@@ -335,13 +335,14 @@
         "선 정리·채색하고 묶기",
         "플립북 넘겨 감상하기"
       ],
-      "tip": "장면 변화가 작을수록 움직임이 자연스럽다. 원본 지도안에는 A4 3장을 각 8등분(24장)이라고 적은 뒤 32장에 스케치한다고 적혀 있어 장수 확인이 필요하다."
+      "tip": "장면 변화가 작을수록 움직임이 자연스럽다."
     },
     {
       "id": "ART427",
       "title": "세계 여러 나라의 전통가옥 만들기",
       "grades": [
-        2
+        2,
+        1
       ],
       "activity_types": [
         "조형·입체 표현",
@@ -352,17 +353,28 @@
         "생활·일상"
       ],
       "materials": "클레이, 솜, 색지, 모루, 가위, 풀, 핀, 뚜껑 등 집 모형 받침",
-      "prep_level": "",
-      "duration_minutes": 40,
+      "prep_level": "중",
+      "duration_minutes": 80,
       "summary": "환경에 따라 다른 세계의 전통가옥을 살펴보고 이글루·풍차 집·티피 중 하나를 선택해 여러 재료로 표현한다.",
       "video_url": "https://youtu.be/Caj6Nx2KuIg",
-      "image_file": null,
-      "active": true
+      "image_file": "1795589530807_12.png",
+      "active": true,
+      "steps": [
+        "집의 모양 질문하기",
+        "전통가옥 특징 알아보기",
+        "전통가옥 만들기",
+        "감상과 공유하기",
+        "자기평가·다음 시간 안내"
+      ],
+      "tip": "다양한 문화의 집을 우열 없이 비교한다. 가위·핀 안전 사용을 지도하고, 재료 조작이 어려우면 미리 자른 재료나 또래 도움을 제공한다."
     },
     {
       "id": "ART396",
       "title": "김홍도 풍속화를 현대의 생활로 바꾸어 그리기",
-      "grades": [],
+      "grades": [
+        5,
+        6
+      ],
       "activity_types": [
         "그리기·회화"
       ],
@@ -371,18 +383,27 @@
         "생활·일상"
       ],
       "materials": "인쇄한 김홍도 작품 사진, 화선지, 연필, 지우개, 붓펜, 테이프, 수채화 용구",
-      "prep_level": "",
-      "duration_minutes": null,
+      "prep_level": "상",
+      "duration_minutes": 80,
       "summary": "김홍도 풍속화의 구도를 참고해 등장인물과 배경을 오늘날 생활 모습으로 바꾸어 그리는 활동.",
       "video_url": "https://youtu.be/VXLhIqGMA60",
-      "image_file": null,
-      "active": true
+      "image_file": "1795589729388_13.png",
+      "active": true,
+      "steps": [
+        "김홍도 풍속화 감상하기",
+        "현대 풍속화 구상하기",
+        "화선지에 스케치하기",
+        "붓펜으로 선화 그리기",
+        "연하게 채색하기"
+      ],
+      "tip": "얇은 화선지가 찢어지지 않도록 연필을 연하게 사용한다. 원본의 구도는 참고하되 인물·배경을 자유롭게 바꾸고 채색은 여백을 남겨도 좋다."
     },
     {
       "id": "ART326",
       "title": "협동 수묵화로 숲 속 풍경 만들기",
       "grades": [
-        3
+        3,
+        4
       ],
       "activity_types": [
         "그리기·회화"
@@ -391,19 +412,28 @@
         "자연·계절",
         "전통문화·국가유산"
       ],
-      "materials": "",
+      "materials": "화선지, 서진, 먹, 벼루, 붓, 물통, 깔개, 4절 도화지, 가위, 풀, 검정 색연필",
       "prep_level": "상",
-      "duration_minutes": null,
+      "duration_minutes": 80,
       "summary": "먹색의 농담을 탐색하며 나무와 나뭇잎을 수묵으로 표현하고 모둠이 함께 숲 속 풍경을 완성한다.",
       "video_url": "https://www.youtube.com/watch?v=Hgftsjw-8PQ",
-      "image_file": null,
-      "active": true
+      "image_file": "1795589745475_14.png",
+      "active": true,
+      "steps": [
+        "수묵화 감상하기",
+        "먹의 농담과 표현 익히기",
+        "먹으로 나무 그리기",
+        "협동 숲 풍경 구성하기",
+        "서로의 작품 감상하기"
+      ],
+      "tip": "앞치마·팔토시를 준비하고, 화선지에 붓 물기가 많으면 번지므로 휴지로 조절한다. 학생이 나뭇잎의 실제 모습을 관찰해 표현하게 한다."
     },
     {
       "id": "ART293",
       "title": "친구와 함께 연출·착시 사진 찍기",
       "grades": [
-        4
+        4,
+        3
       ],
       "activity_types": [
         "사진·영상"
@@ -414,17 +444,26 @@
       ],
       "materials": "활동지 ⑧, 필기도구, 사진기 또는 디지털 기기",
       "prep_level": "하",
-      "duration_minutes": null,
+      "duration_minutes": 80,
       "summary": "사진 구도·각도와 원근 착시를 탐색하고 모둠별 계획을 세워 연출·착시 사진을 찍는 활동.",
       "video_url": "https://www.youtube.com/watch?v=q6Nt3yuRKwA&t=20s",
-      "image_file": null,
-      "active": true
+      "image_file": "1795589895922_15.png",
+      "active": true,
+      "steps": [
+        "사진의 역할 알아보기",
+        "촬영 방법 탐색하기",
+        "촬영 계획 세우기",
+        "모둠별 촬영하기",
+        "사진 감상하기"
+      ],
+      "tip": "촬영 전 역할을 분담하고 사진기 조작(초점·각도·구도)을 시범으로 익히도록 한다."
     },
     {
       "id": "ART284",
       "title": "움직이는 키네틱아트 장난감 만들기",
       "grades": [
-        3
+        3,
+        4
       ],
       "activity_types": [
         "조형·입체 표현",
@@ -436,10 +475,10 @@
       ],
       "materials": "색종이, 우유갑, 철사, 도화지, 가위, 풀, 채색도구, 테이프",
       "prep_level": "중",
-      "duration_minutes": null,
+      "duration_minutes": 80,
       "summary": "우유갑·철사·색종이 등을 이용해 돌리면 움직이는 장난감 형태의 키네틱아트 작품을 만든다.",
       "video_url": "https://www.youtube.com/watch?v=K3RNkJjAC9U&t=9s",
-      "image_file": null,
+      "image_file": "1795590234301_16.png",
       "active": true,
       "steps": [
         "움직이는 미술 감상하기",
@@ -453,7 +492,12 @@
     {
       "id": "ART270",
       "title": "수채화 번지기로 감정 캐릭터 그리기",
-      "grades": [],
+      "grades": [
+        1,
+        2,
+        3,
+        4
+      ],
       "activity_types": [
         "그리기·회화"
       ],
@@ -462,17 +506,26 @@
       ],
       "materials": "종이 2장, 물, 수채화 물감, 붓, 얇은 검정 잉크펜",
       "prep_level": "하",
-      "duration_minutes": null,
+      "duration_minutes": 80,
       "summary": "감정과 어울리는 색을 탐색하고 종이에 물을 바른 뒤 수채 물감을 떨어뜨려 번지게 하여 감정 캐릭터를 완성한다.",
       "video_url": "https://www.youtube.com/watch?v=9EJexD19plA&t=13s",
       "image_file": null,
-      "active": true
+      "active": true,
+      "steps": [
+        "수채화의 번지기 이해하기",
+        "감정·색·표정 구상하기",
+        "종이에 물과 물감 떨어뜨리기",
+        "캐릭터 표정과 몸짓 더하기",
+        "감정 캐릭터 감상하기"
+      ],
+      "tip": "물의 양이 너무 적으면 번짐이 약하고 너무 많으면 형태를 조절하기 어려우니 적절한 양을 실험한다. 종이가 마른 후 검정 펜으로 그린다."
     },
     {
       "id": "ART273",
       "title": "마음을 전하는 세 가지 팝업카드 만들기",
       "grades": [
-        1
+        1,
+        2
       ],
       "activity_types": [
         "공예·만들기",
@@ -484,17 +537,26 @@
       ],
       "materials": "A4 색지, 16절 도화지, 가위, 풀, 연필, 지우개, 색연필",
       "prep_level": "하",
-      "duration_minutes": null,
+      "duration_minutes": 80,
       "summary": "종이를 접고 가위집을 내어 펼치면 튀어나오는 기본형·2단 케이크형·꽃다발형 팝업카드 중 원하는 형태를 만든다.",
       "video_url": "https://www.youtube.com/watch?v=hDrK7ocQHZk",
       "image_file": null,
-      "active": true
+      "active": true,
+      "steps": [
+        "입체카드의 특징 알아보기",
+        "카드 형태 선택하기",
+        "종이 접고 가위집 내기",
+        "색지 덧대고 꾸미기",
+        "펼쳐 확인하고 마음 전하기"
+      ],
+      "tip": "겉 색지를 붙일 때 접힌 선을 정확하게 맞추고 입체 부분이 잘 펴지는지 수시로 확인한다. 여러 형태 중 한 가지를 골라 제작해도 좋다."
     },
     {
       "id": "ART303",
       "title": "모두를 위한 우리 마을 유니버설 디자인",
       "grades": [
-        3
+        3,
+        4
       ],
       "activity_types": [
         "디자인",
@@ -506,17 +568,26 @@
       ],
       "materials": "미술 교과서, 도화지 3장, 색지 1장, 연필, 지우개, 색연필 또는 사인펜, 가위, 풀",
       "prep_level": "하",
-      "duration_minutes": null,
+      "duration_minutes": 76,
       "summary": "마을의 장소·시설을 유니버설 디자인 관점에서 개선할 아이디어를 생각그물로 구성한 뒤 입체 카드 형태로 제작한다.",
       "video_url": "https://www.youtube.com/watch?v=Q2bq2rTntbc&t=57s",
       "image_file": null,
-      "active": true
+      "active": true,
+      "steps": [
+        "유니버설 디자인 이해하기",
+        "마을 시설물 선택하기",
+        "모두를 위한 아이디어 구상하기",
+        "입체형 디자인 카드 제작하기",
+        "제목·설명 적고 작품 공유하기"
+      ],
+      "tip": "한 집단만이 아니라 다양한 이용자가 쓸 수 있는지 살핀다. 도화지 접기·가위집 위치를 시범 보이고, 디자인의 유용성을 설명하는 문장을 쓰게 한다."
     },
     {
       "id": "ART312",
       "title": "살기 좋은 우리 마을 미래 지도 만들기",
       "grades": [
-        4
+        4,
+        3
       ],
       "activity_types": [
         "디자인",
@@ -528,11 +599,19 @@
       ],
       "materials": "스마트기기, 도화지, 연필, 채색도구, 가위, 풀",
       "prep_level": "중",
-      "duration_minutes": null,
+      "duration_minutes": 80,
       "summary": "실제 지도로 우리 마을의 특징과 불편한 점을 살펴보고 미래에 필요한 장소를 상상해 협동 지도를 만든다.",
       "video_url": "https://www.youtube.com/watch?v=BECn6p_s7b0",
       "image_file": null,
-      "active": true
+      "active": true,
+      "steps": [
+        "지도와 우리 마을 살펴보기",
+        "미래에 필요한 장소 상상하기",
+        "미래 지도 요소 표현하기",
+        "협동 지도로 구성하기",
+        "작품 감상하기"
+      ],
+      "tip": "학생이 생활하는 마을을 실제 지도에서 찾아 연결한다. 한 명이 여러 장소를 그리기 어려우면 개인별 1~2곳을 분담해 협동작품으로 만들 수 있다."
     }
   ]
 }
