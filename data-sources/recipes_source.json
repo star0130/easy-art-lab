@@ -141,7 +141,7 @@
       "duration_minutes": 80,
       "summary": "일상의 풍경을 선택하여 연필로 구도를 잡고 드로잉펜과 수채 색연필·워터 브러시로 표현하는 엽서 만들기 활동.",
       "video_url": "https://youtu.be/fKr043zQgR8",
-      "image_file": "1795587115783_01.png",
+      "image_file": "1795588705863_01.png",
       "active": true,
       "steps": [
         "그림으로 남길 일상 떠올리기",
@@ -170,11 +170,19 @@
       ],
       "materials": "스마트기기, Canva, Google Arts & Culture",
       "prep_level": "하",
-      "duration_minutes": null,
+      "duration_minutes": 80,
       "summary": "관심 있는 색을 골라 Google Arts & Culture에서 관련 미술 작품을 찾고 Canva로 색의 느낌과 작품 이미지를 소개하는 포스터를 만든다.",
       "video_url": "https://www.youtube.com/watch?v=PSDVAeP36r8&t=2s",
-      "image_file": null,
-      "active": true
+      "image_file": "1795588743547_06.png",
+      "active": true,
+      "steps": [
+        "색이 주는 느낌 알아보기",
+        "관심 색과 작품 탐색하기",
+        "작품 이미지 2~3점 선택하기",
+        "Canva 포스터 제작하기",
+        "저장하고 함께 감상하기"
+      ],
+      "tip": "작품을 가리지 않도록 장식 요소를 과도하게 사용하지 않으며 색 이름을 해당 색으로 표현한다. 작품 이미지의 수업 외 공개·재배포 권한은 별도 확인한다."
     },
     {
       "id": "ART332",
@@ -272,7 +280,8 @@
       "id": "ART398",
       "title": "ZEP으로 나만의 온라인 전시회 열기",
       "grades": [
-        5
+        5,
+        6
       ],
       "activity_types": [
         "디지털 미술·에듀테크",
@@ -283,17 +292,26 @@
       ],
       "materials": "태블릿PC",
       "prep_level": "하",
-      "duration_minutes": null,
+      "duration_minutes": 80,
       "summary": "그동안 제작한 작품 사진을 ZEP 전시장에 배치하고 제목과 설명을 붙여 친구들과 서로의 작품을 감상한다.",
       "video_url": "https://youtu.be/dpFN76n6F1E",
-      "image_file": null,
-      "active": true
+      "image_file": "1795588780576_10.png",
+      "active": true,
+      "steps": [
+        "메타버스 알아보기",
+        "작품 이미지 준비하기",
+        "ZEP 전시장 만들기",
+        "전시장 꾸미고 공유하기",
+        "온라인 감상하기"
+      ],
+      "tip": "서로 다른 작품이 업로드되도록 독려하고, 이미지 크기 조절 방법을 시범 보인다. 전시 링크 공유 범위와 학생 정보 노출을 점검한다(개인정보 점검은 추가 운영 권고)."
     },
     {
       "id": "ART409",
-      "title": "종이 3장으로 만드는 움직이는 플립북",
+      "title": "움직이는 플립북",
       "grades": [
-        6
+        6,
+        5
       ],
       "activity_types": [
         "그리기·회화",
@@ -304,12 +322,20 @@
         "시각문화·미디어"
       ],
       "materials": "A4 종이 3장, 연필, 네임펜, 채색도구, 집게, 가위",
-      "prep_level": "",
-      "duration_minutes": null,
+      "prep_level": "중",
+      "duration_minutes": 80,
       "summary": "그림이 조금씩 바뀌는 종이 장면을 연속으로 그려 넘기면서 움직임이 보이는 플립북을 만든다.",
       "video_url": "https://youtu.be/64Ic60V0HYE",
-      "image_file": null,
-      "active": true
+      "image_file": "1795588840289_11.png",
+      "active": true,
+      "steps": [
+        "애니메이션 원리 살펴보기",
+        "움직임 구상하기",
+        "종이 자르고 연속 그림 그리기",
+        "선 정리·채색하고 묶기",
+        "플립북 넘겨 감상하기"
+      ],
+      "tip": "장면 변화가 작을수록 움직임이 자연스럽다. 원본 지도안에는 A4 3장을 각 8등분(24장)이라고 적은 뒤 32장에 스케치한다고 적혀 있어 장수 확인이 필요하다."
     },
     {
       "id": "ART427",
