@@ -2,9 +2,10 @@
   "recipes": [
     {
       "id": "ART419",
-      "title": "오방색·오간색으로 단청 장식 만들기",
+      "title": "단청 장식 만들기",
       "grades": [
-        6
+        6,
+        5
       ],
       "activity_types": [
         "공예·만들기",
@@ -19,7 +20,7 @@
       "duration_minutes": 80,
       "summary": "오방색·오간색과 단청 문양의 특징을 배우고, 문양을 채색한 종이를 말아 교실 문 위에 장식할 서까래 모형을 만든다.",
       "video_url": "https://youtu.be/gzLzL4ddUWA",
-      "image_file": null,
+      "image_file": "1795587031285_02.png",
       "active": true,
       "steps": [
         "단청과 전통색 알아보기",
@@ -34,7 +35,8 @@
       "id": "ART414",
       "title": "Gemini Gems로 AI 예술 비평가 만들기",
       "grades": [
-        5
+        5,
+        6
       ],
       "activity_types": [
         "디지털 미술·에듀테크",
@@ -45,17 +47,26 @@
       ],
       "materials": "태블릿PC",
       "prep_level": "하",
-      "duration_minutes": null,
+      "duration_minutes": 80,
       "summary": "자신의 감상과 AI 질문을 비교하며 펠드만의 서술·분석·해석·판단 단계에 따라 미술 작품 비평문을 작성한다.",
       "video_url": "https://youtu.be/5gocsQaJuN8",
-      "image_file": null,
-      "active": true
+      "image_file": "1795587178724_03.png",
+      "active": true,
+      "steps": [
+        "감상문 경험 이야기하기",
+        "작품 먼저 비평해 보기",
+        "AI 비평가 만들기",
+        "AI와 비평 대화하기",
+        "비평문 보완·공유하기"
+      ],
+      "tip": "AI가 학생의 답을 대신 작성하지 않도록 질문 중심의 프롬프트를 사용하고, 교과서와 공신력 있는 자료를 함께 확인하게 한다. 학생 계정 이용 조건은 운영 전 확인 필요."
     },
     {
       "id": "ART422",
       "title": "오일파스텔로 내가 사랑한 풍경 그리기",
       "grades": [
-        6
+        6,
+        5
       ],
       "activity_types": [
         "그리기·회화"
@@ -66,17 +77,26 @@
       ],
       "materials": "오일파스텔, 종이, 종이테이프, 면봉, 사진자료, 디지털기기",
       "prep_level": "중",
-      "duration_minutes": null,
+      "duration_minutes": 80,
       "summary": "풍경 사진을 고르고 오일파스텔의 겹쳐 칠하기·문지르기 특징을 활용해 풍경화를 그린다.",
       "video_url": "https://youtu.be/AkON9x6PM-8",
-      "image_file": null,
-      "active": true
+      "image_file": "1795587268219_04.png",
+      "active": true,
+      "steps": [
+        "그릴 풍경 떠올리기",
+        "재료의 특성 탐색하기",
+        "풍경 사진 선택하기",
+        "풍경화 표현하기",
+        "작품 감상하기"
+      ],
+      "tip": "복잡한 풍경보다 색감을 살릴 수 있는 소재를 선택한다. 테이프는 책상에 한 번 붙였다 떼어 접착력을 낮추고, 작은 종이를 쓰면 문지르기가 수월하다."
     },
     {
       "id": "ART359",
       "title": "색의 속성으로 만드는 구슬 아이스크림",
       "grades": [
-        6
+        6,
+        5
       ],
       "activity_types": [
         "조형·입체 표현",
@@ -88,17 +108,26 @@
       ],
       "materials": "색점토, 색 종이컵, 색종이, 필기도구, 네임펜, 가위, 풀",
       "prep_level": "중",
-      "duration_minutes": null,
+      "duration_minutes": 80,
       "summary": "색의 3속성을 배우고 색점토에 흰색·검정색을 조금씩 섞어 명도 변화를 표현한 뒤 아이스크림 컵을 꾸민다.",
       "video_url": "https://youtu.be/k2bLW7L4zto",
-      "image_file": null,
-      "active": true
+      "image_file": "1795587315495_05.png",
+      "active": true,
+      "steps": [
+        "색의 세 가지 속성 알아보기",
+        "아이스크림 맛과 색 구상하기",
+        "색점토 명도 변화 만들기",
+        "컵 꾸미고 완성하기",
+        "활동 돌아보기"
+      ],
+      "tip": "흰색·검정색 점토를 조금씩 첨가하여 명도의 변화를 관찰하게 한다."
     },
     {
       "id": "ART365",
-      "title": "일상 풍경을 담은 어반스케치 엽서",
+      "title": "일상 풍경을 담은 어반스케치",
       "grades": [
-        6
+        6,
+        5
       ],
       "activity_types": [
         "그리기·회화"
@@ -112,7 +141,7 @@
       "duration_minutes": 80,
       "summary": "일상의 풍경을 선택하여 연필로 구도를 잡고 드로잉펜과 수채 색연필·워터 브러시로 표현하는 엽서 만들기 활동.",
       "video_url": "https://youtu.be/fKr043zQgR8",
-      "image_file": "1795503721052_어반스케치.png",
+      "image_file": "1795587115783_01.png",
       "active": true,
       "steps": [
         "그림으로 남길 일상 떠올리기",
@@ -149,9 +178,10 @@
     },
     {
       "id": "ART332",
-      "title": "사진과 먹지로 친구 초상화 그리기",
+      "title": "친구 초상화 그리기",
       "grades": [
-        4
+        4,
+        3
       ],
       "activity_types": [
         "그리기·회화"
@@ -162,11 +192,19 @@
       ],
       "materials": "디지털기기, 도화지, 먹지, 연필, 색연필, 수채화 도구, 인쇄한 사진, 테이프",
       "prep_level": "중",
-      "duration_minutes": null,
+      "duration_minutes": 80,
       "summary": "친구 얼굴 사진을 촬영·인쇄한 다음 먹지로 윤곽선을 옮기고 색연필로 명암, 수채화로 배경을 표현한다.",
       "video_url": "https://www.youtube.com/watch?v=0ozQfrxGBdI",
-      "image_file": null,
-      "active": true
+      "image_file": "1795587431119_07.png",
+      "active": true,
+      "steps": [
+        "친구 초상화 이해하기",
+        "친구 사진 촬영·인쇄하기",
+        "먹지로 얼굴 윤곽 옮기기",
+        "색연필로 명암 표현하기",
+        "수채화 배경과 작품 나누기"
+      ],
+      "tip": "먹지는 너무 약하거나 강하지 않은 적당한 힘으로 사용한다. 색연필은 약한 힘으로 여러 번 겹쳐 칠하고 얼굴 사진을 안전하게 취급한다(개인정보 관리는 별도 운영 권고)."
     },
     {
       "id": "ART302",
@@ -185,17 +223,26 @@
       ],
       "materials": "색점토, 아이스크림 막대, 꾸미기 재료, 네임펜",
       "prep_level": "하",
-      "duration_minutes": null,
+      "duration_minutes": 80,
       "summary": "세상에 없는 새로운 맛의 아이스크림을 상상하고, 여러 색의 점토를 섞어 막대 아이스크림 모형을 만든 뒤 친구들과 작품을 감상한다.",
       "video_url": "https://www.youtube.com/watch?v=-ugZPWAFVBE",
-      "image_file": null,
-      "active": true
+      "image_file": "1795587924763_08.png",
+      "active": true,
+      "steps": [
+        "상상 속 아이스크림 떠올리기",
+        "색점토 특성 살펴보기",
+        "아이스크림 색과 모양 만들기",
+        "막대 끼우고 꾸미기",
+        "맛 이름 쓰고 작품 감상하기"
+      ],
+      "tip": "아이스크림 맛을 표현하는 색에 정답이 없음을 안내한다. 비슷한 모양의 점토 판 2장 사이에 막대를 끼우고 가장자리를 잘 연결하며, 작은 꾸미기 재료는 눌러 붙이게 한다."
     },
     {
       "id": "ART413",
-      "title": "스케치북 앱으로 우리 지역 홍보 포스터",
+      "title": "우리 지역 홍보 포스터 만들기",
       "grades": [
-        6
+        6,
+        5
       ],
       "activity_types": [
         "디지털 미술·에듀테크",
@@ -206,12 +253,20 @@
         "시각문화·미디어"
       ],
       "materials": "스케치북 앱, 디지털 기기",
-      "prep_level": "",
-      "duration_minutes": null,
+      "prep_level": "하",
+      "duration_minutes": 80,
       "summary": "우리 지역의 자연환경·관광지·특산물·문화유산 등을 조사하고 디지털 드로잉으로 홍보 포스터를 제작한다.",
       "video_url": "https://youtu.be/pgoqVIdrbBo",
-      "image_file": null,
-      "active": true
+      "image_file": "1795588225988_09.png",
+      "active": true,
+      "steps": [
+        "홍보 포스터 살펴보기",
+        "스케치북 앱 익히기",
+        "홍보 소재와 구성 정하기",
+        "디지털 포스터 제작하기",
+        "저장하고 감상하기"
+      ],
+      "tip": "새 요소를 추가할 때마다 레이어를 분리하고, 페인트통 사용 시 윤곽선이 끊기지 않았는지 확인하도록 한다."
     },
     {
       "id": "ART398",
